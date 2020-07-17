@@ -1,0 +1,51 @@
+-------------------------
+Curso Estação hack:
+Aula 1 - Adicionando event listeners
+-------------------------
+[*]Video
+{
+    - atribuições de eventos
+    - 3 passos do evento que devemos pensar
+        * qual elemento o evento vai acontecer
+        * qual evento vai acontecer
+        * o que deve acontecer quando o evento acontecer
+    - As 2 formas de mexer com eventos
+        1
+        * on > e então evento que desejamos que aconteça
+            obs: o on porém possui um defeito, ele não pode ser usado
+            em conjunto com outro on de mesmo nome, pois ele cancela 
+            o evento acima
+        2
+        * e o addEventListener('tipo do evento', function(){
+
+        })
+    - Existe um comando que impede o comportamento padrão
+      de um elemento html 
+        * Esse comando é o preventDefault, ele cancela qualquer
+        ação que existe ao interagir com o elemento do seletor
+    - 
+}
+
+[*] Duvidas que surgiram 
+{
+    - O que é um callback?
+        * é o codigo a ser executado quando determinado evento
+        acontecer
+    - O que é uma function anonima?
+        * é uma função sem um nome, ela é usada justamente para
+        aninhar comandos, ou para que seja passada uma função
+        como parâmetro dentro de um codigo
+    - O que é o closures?
+
+    - é possivel usar o += com onclick?
+}
+[*] Slide
+{
+    - O uso do onload para sempre garatir que o script será executado na página
+        * Um comportamento padrão do javaScript é que ele sempre é usado no fim da pagina
+        por que ele segue a regra de ser executado de cima para baixo,
+        usando o onload é uma garantia de que o script vai ser carregado
+        independente de onde o script estiver na pagina
+    - Como funciona o onclick
+    - Para o que serve o preventDefault
+}

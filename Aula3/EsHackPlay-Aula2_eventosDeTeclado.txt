@@ -1,0 +1,23 @@
+-------------------------
+Curso Estação hack:
+Aula 3 - Eventos de Teclado
+-------------------------
+[*] Video
+{
+    - O por que não é interessante usar o recurso onload para
+    para programar os evento
+
+    - Eventos keyDown, keyUp, keyPress,
+
+    - Pegando eventos de teclado
+
+    - para descubrir como uma determinada tecla do teclado
+    é interpretada no navegador eu preciso usar o event
+    do event listener, isso me dá acesso a toda lista de comandos
+    que existem dentro daquela ação
+        
+}
+[*] Slide
+{
+    - nessa aula não há slide
+}

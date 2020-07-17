@@ -1,0 +1,10 @@
+-------------------------
+Curso Estação hack:
+Aula 4 - Timers
+-------------------------
+[*] Timers
+{
+    - como funcina os timers do javaScript
+    - setTimeout para atrasar a execução
+    - setInterval para repitir de x em x tempo
+}
