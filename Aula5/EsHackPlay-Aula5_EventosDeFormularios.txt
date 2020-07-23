@@ -1,0 +1,14 @@
+-------------------------
+Curso Estação hack:
+Aula 4 - Eventos de formularios
+-------------------------
+[*] Vídeo
+{
+    - Como colocar eventos em um formularios
+    - Evento focus para receber o destaque do campo
+    - Evento blur para receber o destaque do blur
+    - Evento Change
+    - Modificadores mais relacionados a input type
+
+    - como pegar valores do input
+}

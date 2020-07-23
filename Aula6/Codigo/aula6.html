@@ -1,0 +1,39 @@
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="aula6.css">
+    <title>Praticando validação no JS</title>
+</head>
+<!--VALIDAÇÃO-->
+<body>
+    <h1>Esse é um Formulario de validação</h1>
+    <form id="formulario">
+        <!--NOME-->
+        <label for="nome">Nome: </label>
+            <input type="text" name="nome" id="nome" placeholder="Digite o seu nome">
+            <br><br>
+        <!--EMAIL-->
+        <label for="email">Email</label>
+            <input type="email" name="email" id="email" placeholder="Digite o seu e-mail">
+            <br><br>
+        <!--SENHA-->
+        <label for="senha">Senha</label>
+            <input type="password" name="senha" id="senha">
+            <br><br>
+        <!--MENSAGEM-->
+        <label for="text-area">Envie-nos uma mensagem!</label>
+        <br>
+            <textarea name="text-area" id="text-area" cols="30" rows="10"></textarea>
+            <br>
+        <!--ERROS-->
+        <div id="error-list">
+            <ul></ul>
+        </div>
+        <button>Enviar</button>
+    </form>
+    <script src="aula6.js"></script>
+</body>
+
+</html>

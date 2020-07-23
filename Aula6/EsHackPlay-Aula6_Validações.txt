@@ -1,0 +1,19 @@
+-------------------------
+Curso Estação hack:
+Aula 6 - Validações de formulario
+-------------------------
+[*] Vídeo
+{
+    - Como criar um atalho para os querySelectors
+    - Como os ul de uma div precisam estar organizados
+    - encurtando seletores 
+    - O tratamento 
+}
+[*] Slide
+{
+    - Como selecionar um formulario (slide 2)
+    - Como inpedir que o um form seja enviado (slide 3)
+    - Como criar um array de erros (slide 4)
+    - Como exibir o array de erros a partir de um for(slide 6)
+}
+[*] Exercicios

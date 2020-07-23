@@ -2,9 +2,28 @@
 Curso Estação hack:
 Aula 4 - Timers
 -------------------------
-[*] Timers
+[*] Video Sobre timers
 {
     - como funcina os timers do javaScript
     - setTimeout para atrasar a execução
+        * A sintaxe do setTimout é setTimout(function() {
+            aqui então vem o código
+        }, "x tempo" /*Aqui nessa parte do código vem o tempo que demorará pra ação ser executada*/)
     - setInterval para repitir de x em x tempo
+        * A sintaxe de setInterval é
+            setInterval(Function(){Aqui o código a ser executado}, "x tempo" /*Aqui então vem o intervalo de tempo que a ação é executada*/)
+    - clearInterval para parar a execução de algo 
+}
+[*] Slide 
+{
+    - Explicação do uso do setTimout e myFunction (slide 2)
+    - Explicação do setInterval (slide 3)
+    - Explicação do clearInterval e clearTimout
+}
+[*] Exercícios 
+{
+    - "Jogo" de mostar e ocultar o o contador de tempo
+    - 1 Criar as variaveis que manipulam os timers da pagina
+    - 2 Mostrar o contador a partir do click no botão
+    - 3 Ocultar contador a partir do clique no botão ocutar contador
 }
